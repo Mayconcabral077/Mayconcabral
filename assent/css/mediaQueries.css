@@ -1,0 +1,278 @@
+
+@media (max-width:1366px) {
+
+.logo-text span {
+font-size: 7em;
+line-height: 5.3rem;
+}
+
+.barra-menu {
+bottom:2%;
+}
+
+button {
+padding: .7rem 0;
+}
+
+.box-skill {
+gap: 1rem;
+margin: 5rem 0 5rem 0;
+}
+
+.container-galery {
+gap: 15px;
+}
+
+}
+
+@media (max-width:1135px) {
+.container-galery {
+display:grid;
+grid-template-columns: repeat(2, 1fr);
+gap: 50px;
+}
+
+}
+
+@media (max-width:908px) {
+
+.logo-text {
+padding-top: 4rem;
+}
+
+.logo-text span {
+font-size: 6em;
+line-height: 4.8rem;
+}
+
+.container-galery {
+gap: 20px;
+}
+
+}
+
+@media (max-width:854px) {
+
+#home {
+height: 88vh;
+}  
+
+.box-about {
+flex-direction: column;
+gap: 2rem;
+}
+
+.foto {
+width: 245px;
+margin-right: 0;
+}
+
+.box-txt {
+flex-direction: column;
+border-left: none;
+width: 86%;
+}
+
+.box-txt div {
+padding:0;
+}
+
+button {
+padding: .6rem 0;
+}
+
+.container-galery {
+grid-template-columns: repeat(1, 1fr);
+gap: 2.5rem;
+}
+
+#projetos > a {
+align-self: center;
+margin: 2rem 0;
+}
+
+.container-footer {
+flex-direction: column-reverse;
+justify-content: center;
+align-items: center;
+gap: 4rem;
+margin-bottom: 10rem;
+}
+
+.linear {
+display: none;
+}
+}
+
+@media (max-width:722px) {
+
+.logo-text span {
+font-size: 5em;
+line-height: 4rem;
+}
+
+.box-contatos {
+padding-top: 2rem;
+}
+
+.container-contato {
+align-items: flex-start;
+gap: 3.5rem;
+min-height: 13rem;
+min-width: 19rem;
+}
+
+}
+
+@media (max-width:602px) {
+
+.logo-text span {
+font-size: 4.2em;
+line-height: 3.4rem;
+}
+
+.area-flex span {
+font: 600 0.9em var(--font-1);
+margin-left:8px;
+}
+
+.icons-contact {
+width: 1.3rem;
+}
+
+}
+
+@media (max-width:530px) {
+
+h2 {
+font-size: 3em;
+letter-spacing: 3px;
+margin:1.5rem 0;
+}
+
+.logo-text span {
+font-size: 4em;
+line-height: 3.2rem;
+}
+
+.barra-menu{
+width: 100%;
+height: 4.2rem;
+bottom: 0%;
+background-color: #433c3c;
+border-radius: 0;
+}
+
+.footer-contact > span {
+color: var(--color-3);
+font-size: .9em;
+margin-bottom: 6rem;
+}
+
+}
+
+@media (max-width:518px) {
+
+.container-footer {
+gap: 3.5rem;
+margin: 5rem 0;
+}
+
+.box-txt p {
+font: 200 1em var(--font-1);
+line-height: 21px;
+letter-spacing: 0;
+line-height: 1.8rem;
+color: var(--color-7);
+padding-bottom: 0.5rem;
+}
+
+}
+
+@media (max-width:487px) {
+
+#home {
+height: 73vh;
+}  
+
+h2 {
+font-size: 2.5em;
+letter-spacing: 2px;
+}
+
+.logo-text span {
+font-size: 3.4em;
+line-height: 2.9rem;
+}
+
+#projetos {
+padding: 0;
+}
+
+.foto {
+width: 230px;
+margin-right: 0;
+}
+
+}
+
+@media (max-width:442px) {
+
+.box-skill {
+margin-top: 8rem ;
+gap: 0.6rem;
+}
+
+.logo-text span {
+font-size: 3rem;
+line-height: 2.5rem;
+}
+
+}
+
+@media(max-width:365px) {
+
+.container-contato {
+gap: 3.5rem;
+min-width: 17rem;
+}
+.text-text {
+min-width: 18rem;
+}
+
+.footer-contact > span {
+font-size: .7em;
+} 
+
+.logo-text span {
+font-size: 2.6rem;
+line-height: 2.2rem;
+}
+
+.barra-menu {
+gap: 3.2rem;
+width: 28rem;
+}  
+
+.box-skill {
+margin-top: 13rem;
+gap: 0.6rem;
+}
+
+.box-img{
+visibility: hidden;
+display: flex;
+justify-self: center;
+align-items: center;
+position: relative;
+width: 285px;
+
+}
+
+.img-size {
+width: 100%;
+height: 190px;
+border-radius: 5px;
+}
+
+}
