@@ -459,7 +459,8 @@ margin-bottom: 1rem;
 }
 
 .footer-qrcode img {
-width: 7rem;
+width: 7.5rem;
+border-radius: 8px;
 }
 
 .footer-contact > span {
