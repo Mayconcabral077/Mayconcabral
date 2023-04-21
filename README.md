@@ -12,7 +12,7 @@
 
 <h2> Sobre: </h2>
 
- <p>Meu portifólio prossicional é o maior projeto que eu ja fiz até o momento, </p>
+ <p>Meu portifólio profissional é o maior projeto que eu ja fiz até o momento, </p>
 
   
   <p>Para este desafio, preparei e quis dar meu máximo em questões de DESIGN, SEO, USABILIDADE E MODERNIDADE!</p>
