@@ -21,7 +21,7 @@
   O css, desta vez fiz uso do nosso bom e famoso flex-box e css-grid deixando assim nossas sections mais responsivas e com uma boa vizuabilidade, 
   além das transitions, transforms e hovers. Já o JavaScript não teve muito mistério, utilizei a biblioteca "SCROOLreveall" para o scroll de toda a 
   página deixando tudo mais animado e interessante diante aos olhos do usuário. </p>
-  <p>Já a ideia do QR code, quis usufruir da tecnologia ao favor dos usuários que quiserem ter a falicidade para compartilhar meu projeto!</p>
+  <p>Já a ideia do QR code, quis usufruir da tecnologia a favor dos usuários que quiserem ter a falicidade para compartilhar o projeto!</p>
     
 
   <br>
