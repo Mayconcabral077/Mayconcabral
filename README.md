@@ -16,9 +16,9 @@
 
   
   <p>Para este desafio, preparei e quis dar meu máximo em questões de DESIGN, SEO, USABILIDADE E MODERNIDADE!</p>
-  <p> Sobre a lading Page, utilizei o html semântico adcioanndo motores de buscas do google, criei um formulário com os inputs tos tipos email, texto, 
+  <p> Sobre a lading Page, utilizei o html semântico adcioanndo motores de buscas do google, criei um formulário com os inputs dos tipos email, texto, 
   texto área e um botão do tipo Submit, que ao você completar todo os campos obrigatoriamente é enviado a mensagem por meio da plataforma "FormSubmit" ao meu email.  
-  O css, desta vez fiz uso do nosso bom e famoso flex-box  junto ao css-grid deixando assim nossas sections mais responsivas e com uma boa vizuabilidade, 
+  O css, desta vez fiz uso do nosso bom e famoso flex-box e css-grid deixando assim nossas sections mais responsivas e com uma boa vizuabilidade, 
   além das transitions, transforms e hovers. Já o JavaScript não teve muito mistério, utilizei a biblioteca "SCROOLreveall" para o scroll de toda a 
   página deixando tudo mais animado e interessante diante aos olhos do usuário. </p>
   <p>Já a ideia do QR code, quis usufruir da tecnologia ao favor dos usuários que quiserem ter a falicidade para compartilhar meu projeto!</p>
