@@ -114,6 +114,7 @@ position: fixed;
 bottom:5%;
 background-color: #433c3c;
 border-radius: 10rem;
+opacity: 1.0;
 z-index: 1;
 }
 
