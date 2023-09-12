@@ -12,4 +12,3 @@ function getScrollEfect () {
     sr.reveal('.foto, .container-contato', { duration: 2000 , origin:'left', distance: distEspMaior})
 }
   getScrollEfect()
-

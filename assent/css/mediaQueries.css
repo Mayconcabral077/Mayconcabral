@@ -182,9 +182,8 @@ margin: 5rem 0;
 
 .box-txt p {
 font: 200 1em var(--font-1);
-line-height: 21px;
 letter-spacing: 0;
-line-height: 1.8rem;
+line-height: 1.7rem;
 color: var(--color-7);
 padding-bottom: 0.5rem;
 }
@@ -212,7 +211,7 @@ padding: 0;
 }
 
 .foto {
-width: 230px;
+width: 210px;
 margin-right: 0;
 }
 

@@ -112,7 +112,7 @@ width: 28rem;
 height: 4.4rem;
 position: fixed;
 bottom:5%;
-background-color: #433c3c;
+background-color: var(--color-2);
 border-radius: 10rem;
 opacity: 1.0;
 z-index: 1;
@@ -165,7 +165,6 @@ padding: 0 0 3% 6%;
 .box-txt p {
 visibility: hidden;
 font: 200 1em var(--font-1);
-line-height: 21px;
 letter-spacing: 1px;
 line-height: 1.5rem;
 color: var(--color-7);
